@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>signInUrl</key>
+	<string></string>
+	<key>loginUrl</key>
+	<string>https://dit.connectedstars.com/service/token</string>
+	<key>loginUrlParam1</key>
+	<string>grant_type=password</string>
+	<key>loginUrlParam2</key>
+	<string>username=%@</string>
+	<key>loginUrlParam3</key>
+	<string>password=%@</string>
+</dict>
+</plist>
